@@ -1,0 +1,1 @@
+# lafab_buddypress
